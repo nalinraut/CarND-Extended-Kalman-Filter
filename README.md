@@ -41,7 +41,7 @@ The folowing table lists the results of both datasets:
 
 #### Dataset 2
 
-![alt text](assets/eff2.gif "Dataset 2")
+![alt text](assets/ekf2.gif "Dataset 2")
 
 ## Implementation
 
